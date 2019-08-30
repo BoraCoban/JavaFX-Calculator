@@ -1,12 +1,7 @@
 /* *****************************************************************************
  *  Name:    	 Bora ÇOBAN
- *  Student ID:  64160013
  *  Department:  Computer Engineering
- *
- *  Assignment ID: A4 Question 1 
- *
- *  Description:  Design the calculator on the Windows 10 level with JavaFX.   
- *    
+ *  Description:  Design the calculator on the Windows 10 level with JavaFX.    
  **************************************************************************** */
 import javafx.application.Application;
 import javafx.event.ActionEvent;
